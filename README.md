@@ -2,7 +2,7 @@
 
 **Junior Software Engineer / Web Developer · South Wales, UK**
 
-I build websites for small businesses through WTStudio and develop Python/Django applications. My work spans client websites, serverless enquiry handling, interactive galleries and application development. I completed Level 3 Software Engineering training through HyperionDev with Imperial College London.
+I build websites for small businesses through WTStudio and develop frontend and backend applications. My work spans client websites, serverless enquiry handling, interactive galleries and application development. I completed Level 3 Software Engineering training through HyperionDev with Imperial College London.
 
 **[Portfolio website](https://wtstudio.net) · [GitHub](https://github.com/willtuckwell1) · [Online CV](https://willtuckwell1.github.io/MyCV/) · [Download CV (PDF)](https://github.com/willtuckwell1/MyCV/blob/main/William_Tuckwell_CV-Updated.pdf)**
 
@@ -11,7 +11,7 @@ I build websites for small businesses through WTStudio and develop Python/Django
 | Explore | What you will find |
 | --- | --- |
 | [Client work](#client-work) | Business websites, project summaries and live links |
-| [Python project](#software-engineering-project) | Public Django application code, APIs and tests |
+| [Software project](#software-engineering-project) | Public application code, APIs and tests |
 | [Skills](#skills-demonstrated) | Technical skills linked to practical evidence |
 
 > **Client work is showcased, not open-sourced.** This repository contains written case studies and public website links only. Client source code, assets, credentials and deployment configuration are not published here.
