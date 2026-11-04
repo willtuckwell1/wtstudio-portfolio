@@ -16,6 +16,35 @@ For publicly inspectable application code, see [Tuckwells Newsroom](https://gith
 
 ## Client work
 
+### Live website links
+
+- [Tom Pugh Contracting](https://tompughcontracting.com/)
+- [RM Plastering & Finishing](https://rmplasteringandfinishing.com/)
+- [The Kitchen Suite](https://thekitchensuite.co.uk/)
+- [SJH & Sons](https://sjhandsons.co.uk/)
+
+These links open the public websites, not their private source repositories.
+
+### Tom Pugh Contracting — services, project galleries and enquiries
+
+**[Live website](https://tompughcontracting.com/)**
+
+**Brief:** Present a contracting business's services clearly, organise a substantial collection of project photography and make it easy to enquire about specific services.
+
+**My contribution**
+
+- Built seven responsive pages covering Home, Services, Plant Hire, Haulage, Projects, Our Approach and Contact.
+- Developed a coordinated green-and-neutral visual identity using the client's logo, supplied photography and locally hosted typography.
+- Created a crossfading homepage slideshow that preloads the next image, pauses in hidden tabs and respects reduced-motion preferences.
+- Organised project photography into selectable categories with full-size photo viewers and shareable gallery links.
+- Connected service-specific enquiry links to a preselected contact form and implemented server-side email handling through Netlify Functions and Resend.
+- Added an automated enquiry test suite and refined navigation, galleries and forms for phone, tablet and desktop layouts.
+- Published the website on its custom domain with HTTPS and documented hosting and handover requirements.
+
+**Technical decisions:** Load additional project photography on demand, keep service journeys connected to the enquiry form, and preserve normal mobile navigation with touch-friendly controls.
+
+**Stack:** HTML · CSS · JavaScript · Node.js · Netlify Functions · Resend · DNS/HTTPS
+
 ### SJH & Sons — construction website, 3D animation and enquiry delivery
 
 **[Live website](https://sjhandsons.co.uk/) · [Slideshow gallery](https://sjhandsons.co.uk/gallery)**
@@ -89,7 +118,9 @@ For publicly inspectable application code, see [Tuckwells Newsroom](https://gith
 
 ### The Kitchen Suite
 
-**Brief:** Present a kitchen business online and provide routes for prospective customers to make contact and arrange appointments.
+**[Live website](https://thekitchensuite.co.uk/)**
+
+**Brief:** Present a temporary-kitchen business online and provide routes for prospective customers to make contact and arrange appointments.
 
 **My contribution**
 
@@ -97,6 +128,7 @@ For publicly inspectable application code, see [Tuckwells Newsroom](https://gith
 - Implemented serverless handlers for booking and chat functionality.
 - Added Google OAuth integration code to support the booking setup.
 - Documented deployment, booking and chat-assistant configuration for handover.
+- Separated the public website interface from server-side integration settings, keeping credentials out of the frontend and public portfolio.
 
 **Technical focus:** Booking and OAuth integration code is part of the implementation; live integration availability depends on the client's credentials and service configuration. This portfolio does not claim independently verified live booking or chat operation.
 
