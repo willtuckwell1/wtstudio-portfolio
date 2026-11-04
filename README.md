@@ -6,26 +6,34 @@ I build websites for small businesses through WTStudio and develop Python/Django
 
 **[Portfolio website](https://wtstudio.net) · [GitHub](https://github.com/willtuckwell1) · [Online CV](https://willtuckwell1.github.io/MyCV/) · [Download CV (PDF)](https://github.com/willtuckwell1/MyCV/blob/main/William_Tuckwell_CV-Updated.pdf)**
 
-## About this portfolio
+## Start here
 
-This repository documents client website implementations, distinguishing live deployments from development work. It is a **case-study portfolio, not a source-code repository**: client code, configuration and business data are not included. The descriptions below distinguish implemented features from integrations that depend on client configuration.
+| Explore | What you will find |
+| --- | --- |
+| [Client work](#client-work) | Business websites, project summaries and live links |
+| [Python project](#software-engineering-project) | Public Django application code, APIs and tests |
+| [Skills](#skills-demonstrated) | Technical skills linked to practical evidence |
 
-**Client confidentiality:** Client repositories remain private. This public portfolio contains written summaries and links only, not client source files, images, credentials or deployment configuration.
-
-For publicly inspectable application code, see [Tuckwells Newsroom](https://github.com/willtuckwell1/tuckwells-newsroom).
+> **Client work is showcased, not open-sourced.** This repository contains written case studies and public website links only. Client source code, assets, credentials and deployment configuration are not published here.
 
 ## Client work
 
-### Live website links
+| Project | Focus | Website / status |
+| --- | --- | --- |
+| Tom Pugh Contracting | Service pages, categorised galleries and enquiry handling | [Visit website](https://tompughcontracting.com/) |
+| SJH & Sons | Three.js animation, slideshow gallery and quote emails | [Visit website](https://sjhandsons.co.uk/) |
+| RM Plastering & Finishing | Responsive business website and search discovery | [Visit website](https://rmplasteringandfinishing.com/) |
+| The Kitchen Suite | Temporary-kitchen website and booking integration code | [Visit website](https://thekitchensuite.co.uk/) |
+| Evan Thomas Agricultural & Fencing | Service galleries and serverless enquiries | Implementation case study |
+| Coast Cafe | Food photography, menus and seasonal design | Local implementation |
 
-- [Tom Pugh Contracting](https://tompughcontracting.com/)
-- [RM Plastering & Finishing](https://rmplasteringandfinishing.com/)
-- [The Kitchen Suite](https://thekitchensuite.co.uk/)
-- [SJH & Sons](https://sjhandsons.co.uk/)
+### Case studies
 
-These links open the public websites, not their private source repositories.
+Select a project to read about my contribution and technical decisions.
 
-### Tom Pugh Contracting — services, project galleries and enquiries
+<details>
+<summary><strong>Tom Pugh Contracting</strong> — services, galleries and enquiries</summary>
+
 
 **[Live website](https://tompughcontracting.com/)**
 
@@ -45,7 +53,11 @@ These links open the public websites, not their private source repositories.
 
 **Stack:** HTML · CSS · JavaScript · Node.js · Netlify Functions · Resend · DNS/HTTPS
 
-### SJH & Sons — construction website, 3D animation and enquiry delivery
+</details>
+
+<details>
+<summary><strong>SJH &amp; Sons</strong> — 3D animation and enquiry delivery</summary>
+
 
 **[Live website](https://sjhandsons.co.uk/) · [Slideshow gallery](https://sjhandsons.co.uk/gallery)**
 
@@ -65,7 +77,11 @@ These links open the public websites, not their private source repositories.
 
 **Stack:** HTML · CSS · JavaScript · Three.js · Node.js · Netlify Functions · Resend · DNS/HTTPS
 
-### Coast Cafe — responsive food and seasonal website
+</details>
+
+<details>
+<summary><strong>Coast Cafe</strong> — responsive food and seasonal website</summary>
+
 
 **Status:** Implemented locally; this case study does not claim a verified public production deployment.
 
@@ -83,7 +99,11 @@ These links open the public websites, not their private source repositories.
 
 **Stack:** HTML · CSS · Responsive design · Accessible content
 
-### RM Plastering & Finishing
+</details>
+
+<details>
+<summary><strong>RM Plastering &amp; Finishing</strong> — business website and search discovery</summary>
+
 
 **[Live website](https://rmplasteringandfinishing.com/)**
 
@@ -101,7 +121,11 @@ These links open the public websites, not their private source repositories.
 
 **Stack:** HTML · CSS · JavaScript · Git/GitHub · Netlify
 
-### Evan Thomas Agricultural & Fencing
+</details>
+
+<details>
+<summary><strong>Evan Thomas Agricultural &amp; Fencing</strong> — services and serverless enquiries</summary>
+
 
 **Brief:** Showcase agricultural and fencing services, make project photography easy to browse and support customer enquiries.
 
@@ -116,7 +140,11 @@ These links open the public websites, not their private source repositories.
 
 **Stack:** HTML · CSS · JavaScript · Node.js · Netlify Functions · Git/GitHub
 
-### The Kitchen Suite
+</details>
+
+<details>
+<summary><strong>The Kitchen Suite</strong> — temporary-kitchen website and integrations</summary>
+
 
 **[Live website](https://thekitchensuite.co.uk/)**
 
@@ -133,6 +161,8 @@ These links open the public websites, not their private source repositories.
 **Technical focus:** Booking and OAuth integration code is part of the implementation; live integration availability depends on the client's credentials and service configuration. This portfolio does not claim independently verified live booking or chat operation.
 
 **Stack:** HTML · CSS · JavaScript · Node.js · Netlify Functions · Google OAuth
+
+</details>
 
 ## Software engineering project
 
